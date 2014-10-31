@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "xxlinxx@gmail.com",
+    "longName": "Dbtnclk",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Dbtnclk",
+    "uuid": "1e6eb6df-e8c0-4337-9742-ca929832c8a3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
